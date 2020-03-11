@@ -7,7 +7,7 @@ spec:
     contextDir: simple-pipeline
     git:
       uri: "https://github.com/jbbarquero/DO288-apps"
-      ref: "simple-pipeline"
+      ref: "jenkins-pipeline"
   strategy:
     jenkinsPipelineStrategy:
       type: JenkinsPipeline
